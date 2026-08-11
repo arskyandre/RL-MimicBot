@@ -1,4 +1,4 @@
-# Rocket League Copy Bot
+# MimicBot
 
 F5 - Record
 
