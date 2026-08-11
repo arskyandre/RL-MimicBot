@@ -18,7 +18,7 @@ F9 - Import replay from file
 
 1. Download and install RLBot from https://rlbot.org/.
 2. Open RLBot and import this bot folder.
-3. Add Rocket League Copy Bot to a match.
+3. Add MimicBot to a match.
 4. Use the hotkeys above to record, save, replay, export, or import replays.
 
 ![RLBot import tutorial](tuto.png)
