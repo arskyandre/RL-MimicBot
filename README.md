@@ -4,6 +4,10 @@
 
 MimicBot is an RLBot bot that records an opponent's controller inputs and game state, then reproduces the play with its own car. It captures the opponent car and ball physics alongside input changes so replays stay aligned with the original movement.
 
+## Inspiration
+
+I created MimicBot after watching [this video](https://youtu.be/i-jJSrdbpWA). I wanted to build a bot that could do something similar to the freestyle bot shown there by recording a player's inputs and game state, then reproducing the play.
+
 ## Controls
 
 | Key | Action |
