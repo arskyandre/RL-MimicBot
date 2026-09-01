@@ -112,3 +112,6 @@ ENV/
 # VSCode
 .vscode/
 *.code-workspace
+
+# Codex attachments
+.codex-remote-attachments/

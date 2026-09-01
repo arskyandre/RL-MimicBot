@@ -14,6 +14,10 @@ F7 - Export recorded replay
 
 F9 - Import replay from file
 
+## Demo
+
+![MimicBot demo](demo.webp)
+
 ## How to use
 
 1. Download and install RLBot from https://rlbot.org/.
