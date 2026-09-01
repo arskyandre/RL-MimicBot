@@ -8,6 +8,8 @@ MimicBot is an RLBot bot that records an opponent's controller inputs and game s
 
 I created MimicBot after watching the video below. I wanted to build a bot that could do something similar to the freestyle bot shown there by recording a player's inputs and game state, then reproducing the play.
 
+[Watch the inspiration video on YouTube](https://youtu.be/i-jJSrdbpWA)
+
 [![Watch the freestyle bot video that inspired MimicBot](https://img.youtube.com/vi/i-jJSrdbpWA/hqdefault.jpg)](https://youtu.be/i-jJSrdbpWA)
 
 ## Controls
